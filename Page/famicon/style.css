@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Serif', sans-serif; /* セリフ体を使用 */
+    font-size: 30px; /* 文字サイズを大きく設定 */
+    color: #ffffff; /* 金色に設定 */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* 文字に影をつけて立体感を出す */
+    margin: 0;
+}
+
+/* pタグのスタイル */
+p {
+    text-align: left; /* 左寄せに設定 */
+    font-size: 16px; /* フォントサイズを設定 */
+    line-height: 1.6; /* 行間を少し広く設定 */
+    color: #FFFFFF; /* 文字色を白に設定 */
+    margin: 20px; /* 上下に余白を追加 */
+}

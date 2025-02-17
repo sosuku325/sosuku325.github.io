@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Serif', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); 
+    margin: 0;
+}
+
+body {
+    background-image: url('image/haikei.png');
+    color: #FFFFFF;
+}
+
+.hondai {
+    color: #fffb05;
+}
