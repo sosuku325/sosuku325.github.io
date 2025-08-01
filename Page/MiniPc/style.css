@@ -1,0 +1,56 @@
+h1 {
+    font-family: 'Serif', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); 
+    margin: 0;
+}
+
+
+
+.photo-text {
+    display: flex; /* 横並びにする */
+    align-items: center; /* 画像と文字を縦方向に中央揃え */
+    justify-content: start; /* 左側に揃える */
+    margin-top: 20px; /* 上部に余白を追加 */
+}
+
+
+.photo {
+    width: 30%; /* 画像の幅を40%に設定 */
+    max-width: 300px; /* 最大幅を600pxに設定 */
+    height: auto; /* 高さは自動調整 */
+    margin-right: 20px; /* 画像とテキストの間にスペースを追加 */
+}
+
+.guris {
+    display: flex; /* 横並びにする */
+    align-items: center; /* 画像と文字を縦方向に中央揃え */
+    margin-top: 20px; /* 上部に余白を追加 */
+}
+
+.guris-image {
+    width: 80%; /* 画像の幅を80%に設定 */
+    max-width: 300px; /* 最大幅を300pxに設定 */
+    margin-right: 20px; /* 画像とテキストの間にスペースを追加 */
+}
+
+.guris-text {
+    font-size: 18px; /* テキストのフォントサイズを設定 */
+    color: #FFFFFF; /* テキストの色を白に設定 */
+    line-height: 1.6; /* 行間を少し広く設定 */
+    max-width: 50%; /* テキストの最大幅を設定 */
+}
+
+
+.hondai {
+    color: #f0ce10;
+}
+
+p {
+    text-align: left;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #FFFFFF;
+    margin: 20px;
+}
